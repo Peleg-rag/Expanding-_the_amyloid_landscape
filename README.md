@@ -1,6 +1,6 @@
 # Expanding-_the_amyloid_landscape
 
-This repository contains a Python pipeline for identifying and characterizing alpha-helical or secondary structure switch
+This repository contains a Python pipeline for identifying and characterizing alpha-helical or secondary structure switch (SSW)
 fibril-forming peptides of toxic and virulant peptides. The prediction based on biochemical features and secondary-structure
 predictions (Jpred, Tango) and works on selected toxicity-related keywords form Uniprot:
 - antimicrobial (KW-0929).
@@ -22,8 +22,8 @@ The pipeline performs the following steps:
 
 1. Loads peptide databases (Excel format)
 2. Filters sequences by length and annotation quality
-3. Processes **Jpred** secondary-structure predictions
-4. Processes **Tango** aggregation and secondary-structure-switch predictions
+3. Processes **Jpred** secondary-structure predictions (To idetify helical segmets)
+4. Processes **Tango** secondary-structure predictions (To idetify SSW segments)
 5. Computes biochemical features (charge, hydrophobicity, hydrophobic moment)
 6. Classifies peptides as fibril-forming (helix, SSW, or both)
 7. Exports:
@@ -43,21 +43,18 @@ project_root/
 ├── tango.py # Tango input generation, execution, and parsing
 ├── Analysing_final_results.py # Optional post-analysis utilities
 │
-├── Jpred/ # Jpred input/output directories (user-provided)
-├── Tango/ # Tango executable + outputs (user-provided)
-├── Uniprot_keywords/ # Input databases (user-provided)
+├── Jpred/ # Jpred input/output directories (provided)
+├── Tango/ # Tango executable + outputs (provided)
+├── Uniprot_keywords/ # Input databases (provided)
 │ └── Database/
 │ └── *.xlsx
 │
 ├── Output/ # Local results (auto-created)
 └── results/ # Final results (auto-created)
 
-markdown
-Copy code
 
 > **Note:**  
-> Input databases and external tool outputs are **not included** in this repository
-> due to size and licensing constraints.
+> Input databases and external tool outputs are **included** in this repository
 
 ---
 
