@@ -129,22 +129,29 @@ That’s it 😉 The script will:
 > - The pipeline overwrites existing result files with the same name.
 ---
 
-Citation
+## Reading the output files
+The resulted ***Final_<database_name>.xlsx*** packed with all intermidiate calculations. 
+
+The most important columns, with the final prediction with values {-1 or 1} are: 
+- **FF-Secondary structure switch** -  1 if the sequence predicted as fibril-forming secondary structure switch and -1 otherwise.
+- **FF-Helix (Jpred)** - 1 if the sequence predicted as fibril-forming secondary structure switch and -1 otherwise.
+
+The resulted ***Final_statistical_result.xlsx*** file summarizes, in a single table, all threshold values computed during execution of the code for each input database. 
+
+## Citation and contact
 If you use this code in academic work, please cite the corresponding publication
 or contact the authors for citation details.
 
-Contact
-For questions, issues, or extensions, please contact the project maintainer.
+For questions, issues, or extensions, please contact, please contact pelegrag@gmail.com
 
-yaml
-Copy code
 
----
+## References
+In this project there is a use of Jpred and Tango results, as described in: 
 
-If you want, next I can:
-- **Slim this down** for Code Ocean specifically  
-- Add a **“Quick start (TL;DR)”** block  
-- Add a **configuration table** explaining each parameter in `config.py`  
-- Or rewrite it in a **more formal “Methods-style” tone** for publication
+Fernandez-Escamilla AM, Rousseau F, Schymkowitz J, Serrano L. Prediction of sequence-dependent and mutational effects on the aggregation of peptides and proteins. Nat Biotechnol. 2004 Oct;22(10):1302-6. doi: 10.1038/nbt1012. Epub 2004 Sep 12. PMID: 15361882.
 
-Just tell me 👍
+Drozdetskiy A, Cole C, Procter J, Barton GJ. JPred4: a protein secondary structure prediction server. Nucleic Acids Res. 2015 Jul 1;43(W1):W389-94. doi: 10.1093/nar/gkv332. Epub 2015 Apr 16. PMID: 25883141; PMCID: PMC4489285.
+
+
+
+
