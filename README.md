@@ -12,8 +12,7 @@ predictions (Jpred, Tango) and works on selected toxicity-related keywords form 
 - virulence (KW-0834)
 - toxin (KW-0800).
 
-The code is designed so that **users only need to place the required input files
-in the correct directories and run `main.py`**.
+The code is designed so that **users only need to place the etire repository in the same directory and run `main.py`**.
 
 ---
 
