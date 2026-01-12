@@ -12,7 +12,7 @@ predictions (Jpred, Tango) and works on selected toxicity-related keywords form 
 - Virulence (KW-0834)
 - Toxin (KW-0800).
 
-The code is designed so that **users only need to place the etire repository in the same directory and run `main.py`**.
+The code is designed so that **users only need to place the entire repository in the same directory and run `main.py`**.
 
 ---
 
@@ -32,51 +32,30 @@ The pipeline performs the following steps:
 
 ---
 
-project_root
+## Repository Structure
 
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> main.py                           # Entry point (run this)
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> config.py                         # Global configuration and thresholds
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> auxiliary.py                      # Helper and utility functions
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> biochemCalculation.py             # Biochemical feature calculations
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> jpred.py                          # Jpred input generation and result parsing
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> tango.py                          # Tango input generation, execution, and parsing
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> Analysing_final_results.py        # Optional post-analysis utilities
-- 🗂️ Jpred                            # Jpred input/output directories (provided)
-   - 🗂️ *database_name*.txt_dir
-      - 📁 _output
-         - 🖹 *Jpred output files*  
-      - 📁 _error
-- 📁 Tango                            # Tango executable + outputs (provided)
-- 🗂️ Uniprot_keywords                 # Input databases (provided)
-   - 🗂️ Database
-      - 𓊂 *.xlsx
-- 📁 Output                           # Local results (auto-created)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> ▶️ **main.py**   : Entry point (run this)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> **config.py**   : Global configuration and thresholds
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> **auxiliary.py**   : Helper and utility functions
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> **biochemCalculation.py**   : Biochemical feature calculations
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> **jpred.py**   : Jpred input generation and result parsing
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> **tango.py**   : Tango input generation, execution, and parsing
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> **Analysing_final_results.py**   : Post-analysis
+- 🗂️ **Jpred**   : Jpred input/output directories (provided)
+   - 🗂️ ***database_name***.txt_dir
+      - 📁 **_output**
+         - 🖹 ***Jpred output files***  
+      - 📁 **_error**
+- 📁 **Tango**   : Tango executable + outputs (provided)
+- 🗂️ **Uniprot_keywords**   : Input databases (provided)
+   - 🗂️ **Database**
+      - 𓊂 ***.xlsx**
+- 📁 **Output**   : Local results (auto-created)
 
 
  ---
 
-## Repository Structure
-
-project_root/
-├── main.py # Entry point (run this)
-├── config.py # Global configuration and thresholds
-├── auxiliary.py # Helper and utility functions
-├── biochemCalculation.py # Biochemical feature calculations
-├── jpred.py # Jpred input generation and result parsing
-├── tango.py # Tango input generation, execution, and parsing
-├── Analysing_final_results.py # Optional post-analysis utilities
-│
-├── Jpred/ # Jpred input/output directories (provided)
-├── Tango/ # Tango executable + outputs (provided)
-├── Uniprot_keywords/ # Input databases (provided)
-│ └── Database/
-│    └── input files
-│
-├── Output/ # Local results (auto-created)
-└── results/ # Final results (auto-created)
-
-
-> **Note:**  
+> :bulb: **Note:**  
 > Input databases and external tool outputs are **included** in this repository
 
 ---
