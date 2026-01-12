@@ -42,14 +42,14 @@ The pipeline performs the following steps:
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> **tango.py**   : Tango input generation, execution, and parsing
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a17b49b-20c0-4d7e-bd40-42201de8c662" /> **Analysing_final_results.py**   : Post-analysis
 - 🗂️ **Jpred**   : Jpred input/output directories (provided)
-   - 🗂️ ***database_name***.txt_dir
+   - 🗂️ ***<database_name>***.txt_dir
       - 📁 **_output**
          - 🖹 ***Jpred output files***  
       - 📁 **_error**
 - 📁 **Tango**   : Tango executable + outputs (provided)
 - 🗂️ **Uniprot_keywords**   : Input databases (provided)
    - 🗂️ **Database**
-      - 𓊂 ***.xlsx**
+      - 𓊂 ***<database_name>.xlsx**
 - 📁 **Output**   : Local results (auto-created)
 
 
@@ -71,15 +71,12 @@ The pipeline performs the following steps:
 Install dependencies with:
 ```bash
 pip install pandas numpy openpyxl
-External Tools
-Jpred
-Jpred predictions must already exist or be generated externally.
+```
 
-The pipeline expects Jpred outputs to be located under:
-
-php-template
-Copy code
-Jpred/<database_name>.txt_dir/
+#### External Tools
+- **Jpred**: Jpred predictions must be generated externally and paste into the folder Jpred/*<database_name>*.text_dir/_output/.
+  
+- 
 Tango
 Tango must be installed locally.
 
