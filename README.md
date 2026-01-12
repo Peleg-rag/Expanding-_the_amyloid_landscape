@@ -1,8 +1,16 @@
 # Expanding-_the_amyloid_landscape
 
-This repository contains a Python pipeline for identifying and characterizing
-fibril-forming peptides based on biochemical features, secondary-structure
-predictions (Jpred), and aggregation/secondary-structure-switch analysis (Tango).
+This repository contains a Python pipeline for identifying and characterizing alpha-helical or secondary structure switch
+fibril-forming peptides of toxic and virulant peptides. The prediction based on biochemical features and secondary-structure
+predictions (Jpred, Tango) and works on selected toxicity-related keywords form Uniprot:
+- antimicrobial (KW-0929).
+- amphibian defence peptide (KW-0878)
+- antiviral defence (KW-0051)
+- antiviral protein (KW-0930)
+- pathogenicity (KW-0568)
+- prion (KW-0640)
+- virulence (KW-0834)
+- toxin (KW-0800).
 
 The code is designed so that **users only need to place the required input files
 in the correct directories and run `main.py`**.
