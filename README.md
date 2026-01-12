@@ -3,14 +3,14 @@
 This repository contains a Python pipeline for identifying and characterizing alpha-helical or secondary structure switch (SSW)
 fibril-forming peptides of toxic and virulant peptides. The prediction based on biochemical features and secondary-structure
 predictions (Jpred, Tango) and works on selected toxicity-related keywords form Uniprot:
-- antimicrobial (KW-0929).
-- amphibian defence peptide (KW-0878)
-- antiviral defence (KW-0051)
-- antiviral protein (KW-0930)
-- pathogenicity (KW-0568)
-- prion (KW-0640)
-- virulence (KW-0834)
-- toxin (KW-0800).
+- Antimicrobial (KW-0929).
+- Amphibian defence peptide (KW-0878)
+- Antiviral defence (KW-0051)
+- Antiviral protein (KW-0930)
+- Pathogenicity (KW-0568)
+- Prion (KW-0640)
+- Virulence (KW-0834)
+- Toxin (KW-0800).
 
 The code is designed so that **users only need to place the etire repository in the same directory and run `main.py`**.
 
@@ -32,6 +32,25 @@ The pipeline performs the following steps:
 
 ---
 
+project_root
+
+- main.py                     # Entry point (run this)
+- config.py                   # Global configuration and thresholds
+- auxiliary.py                # Helper and utility functions
+- biochemCalculation.py       # Biochemical feature calculations
+- jpred.py                    # Jpred input generation and result parsing
+- tango.py                    # Tango input generation, execution, and parsing
+- Analysing_final_results.py  # Optional post-analysis utilities
+- Jpred                      # Jpred input/output directories (provided)
+- Tango                      # Tango executable + outputs (provided)
+- Uniprot_keywords           # Input databases (provided)
+   - Database
+      - *.xlsx
+- Output                     # Local results (auto-created)
+
+
+ ---
+
 ## Repository Structure
 
 project_root/
@@ -47,7 +66,7 @@ project_root/
 ├── Tango/ # Tango executable + outputs (provided)
 ├── Uniprot_keywords/ # Input databases (provided)
 │ └── Database/
-│ └── *.xlsx
+│    └── input files
 │
 ├── Output/ # Local results (auto-created)
 └── results/ # Final results (auto-created)
