@@ -49,11 +49,11 @@ The pipeline performs the following steps:
 - 📁 **Tango**   : Tango executable + outputs (provided)
 - 🗂️ **Uniprot_keywords**   : Input databases (provided)
    - 🗂️ **Database**
-      - 𓊂 ***<database_name>.xlsx**
+      - 𓊂 ***<database_name>*.xlsx**
 - 📁 **Output**   : Local results (auto-created)
 
 
- ---
+---
 
 > :bulb: **Note:**  
 > Input databases and external tool outputs are **included** in this repository
@@ -76,66 +76,58 @@ pip install pandas numpy openpyxl
 #### External Tools
 - **Jpred**: Jpred predictions must be generated externally and paste into the folder Jpred/*<database_name>*.text_dir/_output/.
   
-- 
-Tango
-Tango must be installed locally.
+- **Tango**: Tango runs locally. all files needed exists in Tango/ folder. 
 
 The Tango executable (Tango_run.bat) must be placed in:
 
-Copy code
-Tango/
-Configuration
-All user-adjustable parameters are defined in config.py, including:
 
-Input paths
+---
 
-Job type (JOB_RUN)
+> :memo: **Configuration and threshold setting:**  
+> All user-adjustable parameters are defined in config.py. **There is no need to change anything to reproduce results described in the paper**
+>
+> 
+> Configuration andd Threshold adjustment is possible, but **will result in different output**.
+> - RUN_ONLY_DATABASE - add filepath to a specific database. Must include the columns:
+>    -  Unique name (update in conig.py under KEY the column name)
+>    -  Sequence under 'Sequence' column
+>
+> 
+> - MINIMAL_PEPTIDE_LENGTH - defines the length of the sequences that will be analysed.
+> - MIN_SEGMENT_LENGTH - minimum number of consecutive residues required to assign a secondary-structure segment.
+> - MAX_GAP - maximum number of residues with mismatched secondary-structure prediction allowed within a predicted segment strach.
+> - MIN_JPRED_SCORE - minimal averaged score of a segment to be predicted as helical by Jpred
+>   
+> To apply additional thresholds based on the fraction of the sequence assigned a defined secondary structure, set the following parameters to values greater than 0 and less than or equal to 100:
+> - MIN_H_CONTENT: minimum percentage of residues predicted to be helical
+> - MIN_SSW_B_CONTENT: minimum percentage of residues predicted to adopt β-structure within SSW sequences
+> - MIN_SSW_H_CONTENT: minimum percentage of residues predicted to be helical within SSW sequences
+>
+   
+---
 
-Length thresholds
 
-Secondary-structure thresholds
 
-Typical users only need to edit config.py.
-
-Running the Pipeline
+## Running the Pipeline
 From the project root directory:
 
-bash
-Copy code
+```bash
 python main.py
-That’s it.
+```
+That’s it 😉 The script will:
+- Automatically discover input databases 
+- Run all analysis steps
+- Write outputs to: Output/
+   - Outputs For each input database: Final_<database_name>.xlsx → Fully annotated peptide database
+   - Final_statistical_result.xlsx → Summary statistics across databases
 
-The script will:
-
-Automatically discover input databases
-
-Run all analysis steps
-
-Write outputs to:
-
-Output/ (local copy)
-
-results/ (final results)
-
-Outputs
-For each input database:
-
-Final_<database_name>.xlsx
-→ Fully annotated peptide database
-
-Additionally:
-
-Final_statistical_result.xlsx
-→ Summary statistics across databases
-
-Notes & Best Practices
-Do not move individual .py files out of the project root.
-
-Keep the directory structure intact.
-
-Paths are resolved relative to config.py.
-
-The pipeline overwrites existing result files with the same name.
+---
+> :memo: **Notes & Best Practices**
+> - Do not move individual .py files out of the project root.
+> - Keep the directory structure intact.
+> - Paths are resolved relative to config.py.
+> - The pipeline overwrites existing result files with the same name.
+---
 
 Citation
 If you use this code in academic work, please cite the corresponding publication
