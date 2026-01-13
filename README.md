@@ -86,13 +86,13 @@ pip install pandas numpy openpyxl
 > All user-adjustable parameters are defined in config.py. **There is no need to change anything to reproduce results described in the paper**
 >
 > 
-> Configuration andd Threshold adjustment is possible, but **will result in different output**.
+> Configuration and Threshold adjustment is possible, but **will result in different output**.
 > - RUN_ONLY_DATABASE - add filepath to a specific database. Must include the columns:
 >    -  Unique name (update in conig.py under KEY the column name)
 >    -  Sequence under 'Sequence' column
 >
 > 
-> - MINIMAL_PEPTIDE_LENGTH - defines the length of the sequences that will be analysed.
+> - MINIMAL_PEPTIDE_LENGTH - defines the maximal length of sequences that will be analysed.
 > - MIN_SEGMENT_LENGTH - minimum number of consecutive residues required to assign a secondary-structure segment.
 > - MAX_GAP - maximum number of residues with mismatched secondary-structure prediction allowed within a predicted segment strach.
 > - MIN_JPRED_SCORE - minimal averaged score of a segment to be predicted as helical by Jpred
