@@ -1,0 +1,11 @@
+--2022-03-14 10:44:34--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_iCiMKph/jp_iCiMKph.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.2.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1372 (1.3K) [text/plain]
+Saving to: ‘jp_iCiMKph.jnet’
+
+     0K .                                                     100% 99.5M=0s
+
+2022-03-14 10:44:34 (99.5 MB/s) - ‘jp_iCiMKph.jnet’ saved [1372/1372]
+

@@ -1,0 +1,11 @@
+--2022-03-10 21:29:21--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_UyqRbeI/jp_UyqRbeI.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 787 [text/plain]
+Saving to: ‘jp_UyqRbeI.jnet’
+
+     0K                                                       100% 76.2M=0s
+
+2022-03-10 21:29:21 (76.2 MB/s) - ‘jp_UyqRbeI.jnet’ saved [787/787]
+

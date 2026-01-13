@@ -1,0 +1,11 @@
+--2022-03-11 00:26:36--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_PCF_ai5/jp_PCF_ai5.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 891 [text/plain]
+Saving to: ‘jp_PCF_ai5.jnet’
+
+     0K                                                       100%  117M=0s
+
+2022-03-11 00:26:36 (117 MB/s) - ‘jp_PCF_ai5.jnet’ saved [891/891]
+

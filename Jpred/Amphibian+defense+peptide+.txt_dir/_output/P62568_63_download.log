@@ -1,0 +1,11 @@
+--2022-03-10 13:55:46--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_ZyEqabi/jp_ZyEqabi.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 134.36.2.60, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1039 (1.0K) [text/plain]
+Saving to: ‘jp_ZyEqabi.jnet’
+
+     0K .                                                     100%  249M=0s
+
+2022-03-10 13:55:48 (249 MB/s) - ‘jp_ZyEqabi.jnet’ saved [1039/1039]
+

@@ -1,0 +1,11 @@
+--2022-03-10 15:01:54--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_MRlfUph/jp_MRlfUph.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 134.36.2.60, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 854 [text/plain]
+Saving to: ‘jp_MRlfUph.jnet’
+
+     0K                                                       100%  196M=0s
+
+2022-03-10 15:01:54 (196 MB/s) - ‘jp_MRlfUph.jnet’ saved [854/854]
+

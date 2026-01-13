@@ -1,0 +1,11 @@
+--2022-02-28 12:54:55--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_TOFDN8M/jp_TOFDN8M.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1409 (1.4K) [text/plain]
+Saving to: ‘jp_TOFDN8M.jnet’
+
+     0K .                                                     100% 85.7M=0s
+
+2022-02-28 12:55:01 (85.7 MB/s) - ‘jp_TOFDN8M.jnet’ saved [1409/1409]
+

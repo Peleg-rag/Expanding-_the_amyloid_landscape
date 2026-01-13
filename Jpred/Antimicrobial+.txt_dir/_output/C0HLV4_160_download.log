@@ -1,0 +1,11 @@
+--2022-03-06 19:57:45--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_E7jq8Qd/jp_E7jq8Qd.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1113 (1.1K) [text/plain]
+Saving to: ‘jp_E7jq8Qd.jnet’
+
+     0K .                                                     100%  200M=0s
+
+2022-03-06 19:57:46 (200 MB/s) - ‘jp_E7jq8Qd.jnet’ saved [1113/1113]
+

@@ -1,0 +1,11 @@
+--2022-03-14 11:19:53--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_zsNDOVl/jp_zsNDOVl.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.2.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 820 [text/plain]
+Saving to: ‘jp_zsNDOVl.jnet’
+
+     0K                                                       100% 64.4M=0s
+
+2022-03-14 11:19:53 (64.4 MB/s) - ‘jp_zsNDOVl.jnet’ saved [820/820]
+

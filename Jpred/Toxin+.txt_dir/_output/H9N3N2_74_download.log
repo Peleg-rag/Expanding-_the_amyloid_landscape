@@ -1,0 +1,11 @@
+--2022-02-28 15:04:59--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_waKRrAl/jp_waKRrAl.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.2.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1298 (1.3K) [text/plain]
+Saving to: ‘jp_waKRrAl.jnet’
+
+     0K .                                                     100%  136M=0s
+
+2022-02-28 15:05:04 (136 MB/s) - ‘jp_waKRrAl.jnet’ saved [1298/1298]
+

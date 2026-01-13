@@ -1,0 +1,11 @@
+--2022-03-06 19:55:36--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_IiVMGTG/jp_IiVMGTG.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1076 (1.1K) [text/plain]
+Saving to: ‘jp_IiVMGTG.jnet’
+
+     0K .                                                     100% 83.8M=0s
+
+2022-03-06 19:55:36 (83.8 MB/s) - ‘jp_IiVMGTG.jnet’ saved [1076/1076]
+

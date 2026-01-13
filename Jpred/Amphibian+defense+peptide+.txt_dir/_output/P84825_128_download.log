@@ -1,0 +1,16 @@
+--2022-03-10 22:42:41--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_JU4Ysi5/jp_JU4Ysi5.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2022-03-10 23:06:26--  (try: 2)  http://www.compbio.dundee.ac.uk/jpred4/results/jp_JU4Ysi5/jp_JU4Ysi5.jnet
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1446 (1.4K) [text/plain]
+Saving to: ‘jp_JU4Ysi5.jnet’
+
+     0K .                                                     100%  157M=0s
+
+2022-03-10 23:06:26 (157 MB/s) - ‘jp_JU4Ysi5.jnet’ saved [1446/1446]
+

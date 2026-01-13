@@ -1,0 +1,11 @@
+--2022-03-10 13:48:52--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_IsFvCRd/jp_IsFvCRd.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 134.36.2.60, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 919 [text/plain]
+Saving to: ‘jp_IsFvCRd.jnet’
+
+     0K                                                       100%  150M=0s
+
+2022-03-10 13:48:52 (150 MB/s) - ‘jp_IsFvCRd.jnet’ saved [919/919]
+

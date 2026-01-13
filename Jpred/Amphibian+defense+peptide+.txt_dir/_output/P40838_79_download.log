@@ -1,0 +1,11 @@
+--2022-03-10 13:16:07--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_uR0DGUn/jp_uR0DGUn.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 134.36.2.60, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1335 (1.3K) [text/plain]
+Saving to: ‘jp_uR0DGUn.jnet’
+
+     0K .                                                     100% 67.7M=0s
+
+2022-03-10 13:16:07 (67.7 MB/s) - ‘jp_uR0DGUn.jnet’ saved [1335/1335]
+

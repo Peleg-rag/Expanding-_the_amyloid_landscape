@@ -1,0 +1,11 @@
+--2022-03-14 11:33:06--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_akLPdoA/jp_akLPdoA.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.2.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 754 [text/plain]
+Saving to: ‘jp_akLPdoA.jnet’
+
+     0K                                                       100%  167M=0s
+
+2022-03-14 11:33:06 (167 MB/s) - ‘jp_akLPdoA.jnet’ saved [754/754]
+

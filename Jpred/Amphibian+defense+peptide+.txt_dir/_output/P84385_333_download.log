@@ -1,0 +1,11 @@
+--2022-03-10 22:18:31--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_syoTvNa/jp_syoTvNa.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 820 [text/plain]
+Saving to: ‘jp_syoTvNa.jnet’
+
+     0K                                                       100% 37.6M=0s
+
+2022-03-10 22:18:31 (37.6 MB/s) - ‘jp_syoTvNa.jnet’ saved [820/820]
+

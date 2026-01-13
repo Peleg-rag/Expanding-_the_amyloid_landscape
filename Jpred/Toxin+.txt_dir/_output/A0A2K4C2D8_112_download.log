@@ -1,0 +1,11 @@
+--2022-02-28 14:33:40--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_NGc6hRE/jp_NGc6hRE.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.2.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 886 [text/plain]
+Saving to: ‘jp_NGc6hRE.jnet’
+
+     0K                                                       100% 81.7M=0s
+
+2022-02-28 14:33:45 (81.7 MB/s) - ‘jp_NGc6hRE.jnet’ saved [886/886]
+

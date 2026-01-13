@@ -1,0 +1,11 @@
+--2025-11-08 21:28:21--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_AAb_Pjq/jp_AAb_Pjq.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 754
+Saving to: ‘jp_AAb_Pjq.jnet’
+
+     0K                                                       100%  113M=0s
+
+2025-11-08 21:28:21 (113 MB/s) - ‘jp_AAb_Pjq.jnet’ saved [754/754]
+

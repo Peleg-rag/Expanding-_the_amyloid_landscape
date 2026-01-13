@@ -1,0 +1,11 @@
+--2022-02-28 14:44:06--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_aPundxm/jp_aPundxm.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.2.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1051 (1.0K) [text/plain]
+Saving to: ‘jp_aPundxm.jnet’
+
+     0K .                                                     100%  163M=0s
+
+2022-02-28 14:44:11 (163 MB/s) - ‘jp_aPundxm.jnet’ saved [1051/1051]
+

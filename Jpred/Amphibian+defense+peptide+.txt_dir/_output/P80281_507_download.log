@@ -1,0 +1,11 @@
+--2022-03-10 14:14:40--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_LMomS0w/jp_LMomS0w.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 134.36.2.60, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1051 (1.0K) [text/plain]
+Saving to: ‘jp_LMomS0w.jnet’
+
+     0K .                                                     100% 85.1M=0s
+
+2022-03-10 14:14:42 (85.1 MB/s) - ‘jp_LMomS0w.jnet’ saved [1051/1051]
+

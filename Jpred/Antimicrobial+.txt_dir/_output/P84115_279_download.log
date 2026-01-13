@@ -1,0 +1,11 @@
+--2022-03-11 00:08:13--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_vEhUMss/jp_vEhUMss.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1150 (1.1K) [text/plain]
+Saving to: ‘jp_vEhUMss.jnet’
+
+     0K .                                                     100% 66.5M=0s
+
+2022-03-11 00:08:13 (66.5 MB/s) - ‘jp_vEhUMss.jnet’ saved [1150/1150]
+

@@ -1,0 +1,11 @@
+--2022-03-14 10:40:11--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_KevEnMK/jp_KevEnMK.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.2.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1372 (1.3K) [text/plain]
+Saving to: ‘jp_KevEnMK.jnet’
+
+     0K .                                                     100%  214M=0s
+
+2022-03-14 10:40:11 (214 MB/s) - ‘jp_KevEnMK.jnet’ saved [1372/1372]
+

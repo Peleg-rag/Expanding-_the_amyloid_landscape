@@ -1,0 +1,11 @@
+--2022-03-06 13:23:19--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_WAR577J/jp_WAR577J.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 10.1.255.216, 10.1.255.226, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 965 [text/plain]
+Saving to: ‘jp_WAR577J.jnet’
+
+     0K                                                       100%  173M=0s
+
+2022-03-06 13:23:20 (173 MB/s) - ‘jp_WAR577J.jnet’ saved [965/965]
+

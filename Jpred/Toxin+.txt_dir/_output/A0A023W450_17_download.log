@@ -1,0 +1,11 @@
+--2022-02-28 12:54:38--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_UtrRJOI/jp_UtrRJOI.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 919 [text/plain]
+Saving to: ‘jp_UtrRJOI.jnet’
+
+     0K                                                       100% 72.6M=0s
+
+2022-02-28 12:54:44 (72.6 MB/s) - ‘jp_UtrRJOI.jnet’ saved [919/919]
+

@@ -1,0 +1,11 @@
+--2022-03-10 12:32:03--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_rXat_um/jp_rXat_um.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 134.36.2.60, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1335 (1.3K) [text/plain]
+Saving to: ‘jp_rXat_um.jnet’
+
+     0K .                                                     100% 92.6M=0s
+
+2022-03-10 12:32:03 (92.6 MB/s) - ‘jp_rXat_um.jnet’ saved [1335/1335]
+

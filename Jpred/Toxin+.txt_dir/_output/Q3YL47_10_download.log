@@ -1,0 +1,11 @@
+--2022-03-02 11:23:44--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_NY1NcHd/jp_NY1NcHd.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 134.36.2.60, 10.1.255.216, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1076 (1.1K) [text/plain]
+Saving to: ‘jp_NY1NcHd.jnet’
+
+     0K .                                                     100% 90.1M=0s
+
+2022-03-02 11:23:44 (90.1 MB/s) - ‘jp_NY1NcHd.jnet’ saved [1076/1076]
+

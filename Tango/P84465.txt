@@ -1,0 +1,5 @@
+res	aa	Beta	Turn	Helix	Aggregation	Conc-Stab_Aggregation
+01	  L	  0.4	  0.0	0.000	0.000	0.000
+02	  W	  0.7	  0.0	0.000	0.000	0.000
+03	  S	  0.7	  0.0	0.000	0.000	0.000
+04	  G	  0.3	  0.0	0.000	0.000	0.000

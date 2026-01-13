@@ -1,0 +1,11 @@
+--2022-03-10 11:32:41--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_Q9_XmCp/jp_Q9_XmCp.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 134.36.2.60, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 787 [text/plain]
+Saving to: ‘jp_Q9_XmCp.jnet’
+
+     0K                                                       100% 69.3M=0s
+
+2022-03-10 11:32:41 (69.3 MB/s) - ‘jp_Q9_XmCp.jnet’ saved [787/787]
+

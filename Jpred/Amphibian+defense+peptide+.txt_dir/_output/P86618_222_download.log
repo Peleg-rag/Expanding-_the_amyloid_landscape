@@ -1,0 +1,11 @@
+--2022-03-11 01:05:59--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_Z6_QsDV/jp_Z6_QsDV.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1348 (1.3K) [text/plain]
+Saving to: ‘jp_Z6_QsDV.jnet’
+
+     0K .                                                     100%  102M=0s
+
+2022-03-11 01:06:00 (102 MB/s) - ‘jp_Z6_QsDV.jnet’ saved [1348/1348]
+

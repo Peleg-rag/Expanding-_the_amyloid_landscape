@@ -1,0 +1,11 @@
+--2022-03-06 12:50:38--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_zREfMHz/jp_zREfMHz.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 10.1.255.216, 10.1.255.226, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1335 (1.3K) [text/plain]
+Saving to: ‘jp_zREfMHz.jnet’
+
+     0K .                                                     100%  173M=0s
+
+2022-03-06 12:50:39 (173 MB/s) - ‘jp_zREfMHz.jnet’ saved [1335/1335]
+

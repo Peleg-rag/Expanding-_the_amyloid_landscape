@@ -1,0 +1,11 @@
+--2022-03-06 15:31:52--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_pgstoie/jp_pgstoie.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 10.1.255.216, 130.159.248.11, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1224 (1.2K) [text/plain]
+Saving to: ‘jp_pgstoie.jnet’
+
+     0K .                                                     100%  103M=0s
+
+2022-03-06 15:31:52 (103 MB/s) - ‘jp_pgstoie.jnet’ saved [1224/1224]
+

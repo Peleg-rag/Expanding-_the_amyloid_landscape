@@ -1,0 +1,11 @@
+--2022-02-28 13:16:46--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_CiPN4AA/jp_CiPN4AA.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1113 (1.1K) [text/plain]
+Saving to: ‘jp_CiPN4AA.jnet’
+
+     0K .                                                     100%  106M=0s
+
+2022-02-28 13:16:51 (106 MB/s) - ‘jp_CiPN4AA.jnet’ saved [1113/1113]
+

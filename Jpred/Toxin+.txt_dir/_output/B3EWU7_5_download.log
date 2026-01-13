@@ -1,0 +1,11 @@
+--2025-11-08 21:24:04--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_l1oRtd1/jp_l1oRtd1.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1282 (1.3K)
+Saving to: ‘jp_l1oRtd1.jnet’
+
+     0K .                                                     100%  247M=0s
+
+2025-11-08 21:24:04 (247 MB/s) - ‘jp_l1oRtd1.jnet’ saved [1282/1282]
+

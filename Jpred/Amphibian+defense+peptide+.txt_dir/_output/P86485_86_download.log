@@ -1,0 +1,11 @@
+--2022-03-11 00:33:14--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_Zrm73Eo/jp_Zrm73Eo.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 919 [text/plain]
+Saving to: ‘jp_Zrm73Eo.jnet’
+
+     0K                                                       100% 89.2M=0s
+
+2022-03-11 00:33:15 (89.2 MB/s) - ‘jp_Zrm73Eo.jnet’ saved [919/919]
+

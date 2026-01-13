@@ -1,0 +1,11 @@
+--2022-03-11 00:42:08--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_wOTSDok/jp_wOTSDok.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 919 [text/plain]
+Saving to: ‘jp_wOTSDok.jnet’
+
+     0K                                                       100% 78.2M=0s
+
+2022-03-11 00:42:08 (78.2 MB/s) - ‘jp_wOTSDok.jnet’ saved [919/919]
+

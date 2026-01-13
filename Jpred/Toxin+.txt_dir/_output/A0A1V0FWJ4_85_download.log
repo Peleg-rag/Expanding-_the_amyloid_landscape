@@ -1,0 +1,11 @@
+--2022-02-28 13:58:47--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_PCif6Fy/jp_PCif6Fy.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.2.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1409 (1.4K) [text/plain]
+Saving to: ‘jp_PCif6Fy.jnet’
+
+     0K .                                                     100%  160M=0s
+
+2022-02-28 13:58:53 (160 MB/s) - ‘jp_PCif6Fy.jnet’ saved [1409/1409]
+

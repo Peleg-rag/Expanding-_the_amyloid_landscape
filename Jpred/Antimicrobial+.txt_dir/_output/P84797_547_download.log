@@ -1,0 +1,11 @@
+--2022-03-11 01:08:18--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_tCJa_fm/jp_tCJa_fm.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1084 (1.1K) [text/plain]
+Saving to: ‘jp_tCJa_fm.jnet’
+
+     0K .                                                     100% 75.0M=0s
+
+2022-03-11 01:08:18 (75.0 MB/s) - ‘jp_tCJa_fm.jnet’ saved [1084/1084]
+

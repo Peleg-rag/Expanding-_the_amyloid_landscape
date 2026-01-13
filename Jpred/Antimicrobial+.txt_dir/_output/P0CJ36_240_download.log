@@ -1,0 +1,11 @@
+--2022-03-06 22:27:20--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_98ALiKh/jp_98ALiKh.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1084 (1.1K) [text/plain]
+Saving to: ‘jp_98ALiKh.jnet’
+
+     0K .                                                     100%  153M=0s
+
+2022-03-06 22:27:20 (153 MB/s) - ‘jp_98ALiKh.jnet’ saved [1084/1084]
+

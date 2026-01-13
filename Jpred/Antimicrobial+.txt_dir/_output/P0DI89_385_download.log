@@ -1,0 +1,11 @@
+--2022-03-06 22:35:53--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_HIcsfFe/jp_HIcsfFe.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1224 (1.2K) [text/plain]
+Saving to: ‘jp_HIcsfFe.jnet’
+
+     0K .                                                     100%  109M=0s
+
+2022-03-06 22:35:53 (109 MB/s) - ‘jp_HIcsfFe.jnet’ saved [1224/1224]
+

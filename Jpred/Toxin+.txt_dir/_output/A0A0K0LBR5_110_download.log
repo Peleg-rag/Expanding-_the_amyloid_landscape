@@ -1,0 +1,11 @@
+--2022-02-28 12:58:23--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_ruDzDEs/jp_ruDzDEs.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1261 (1.2K) [text/plain]
+Saving to: ‘jp_ruDzDEs.jnet’
+
+     0K .                                                     100%  144M=0s
+
+2022-02-28 12:58:29 (144 MB/s) - ‘jp_ruDzDEs.jnet’ saved [1261/1261]
+

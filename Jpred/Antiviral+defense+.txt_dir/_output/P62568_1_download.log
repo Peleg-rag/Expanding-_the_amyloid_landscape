@@ -1,0 +1,11 @@
+--2022-03-14 11:08:02--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_MiQ_zcH/jp_MiQ_zcH.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.2.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1039 (1.0K) [text/plain]
+Saving to: ‘jp_MiQ_zcH.jnet’
+
+     0K .                                                     100%  110M=0s
+
+2022-03-14 11:08:03 (110 MB/s) - ‘jp_MiQ_zcH.jnet’ saved [1039/1039]
+

@@ -1,0 +1,11 @@
+--2022-02-28 13:16:30--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_ItmkE0b/jp_ItmkE0b.jnet
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192, 193.62.157.66, 134.36.12.60, ...
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1335 (1.3K) [text/plain]
+Saving to: ‘jp_ItmkE0b.jnet’
+
+     0K .                                                     100% 92.9M=0s
+
+2022-02-28 13:16:35 (92.9 MB/s) - ‘jp_ItmkE0b.jnet’ saved [1335/1335]
+

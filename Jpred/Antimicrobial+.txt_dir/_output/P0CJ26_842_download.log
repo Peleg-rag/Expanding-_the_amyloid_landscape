@@ -1,0 +1,11 @@
+--2022-03-06 22:00:03--  http://www.compbio.dundee.ac.uk/jpred4/results/jp_IC_mRDS/jp_IC_mRDS.results.html
+Resolving www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)... 134.36.65.192
+Connecting to www.compbio.dundee.ac.uk (www.compbio.dundee.ac.uk)|134.36.65.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20659 (20K) [text/html]
+Saving to: ‘jp_IC_mRDS.results.html’
+
+     0K .......... ..........                                 100%  211K=0.1s
+
+2022-03-06 22:00:04 (211 KB/s) - ‘jp_IC_mRDS.results.html’ saved [20659/20659]
+
