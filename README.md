@@ -93,7 +93,7 @@ pip install pandas numpy openpyxl
 >
 > 
 > - MINIMAL_PEPTIDE_LENGTH - defines the maximal length of sequences that will be analysed.
-> - MIN_SEGMENT_LENGTH - minimum number of consecutive residues required to assign a secondary-structure segment.
+> - MIN_SEGMENT_LENGTH - minimum number of consecutive residues required to assign a defined secondary-structure.
 > - MAX_GAP - maximum number of residues with mismatched secondary-structure prediction allowed within a predicted segment strach.
 > - MIN_JPRED_SCORE - minimal averaged score of a segment to be predicted as helical by Jpred
 >   
