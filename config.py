@@ -4,9 +4,6 @@ import os
 PROJECT_PATH = os.path.dirname(os.path.abspath(__file__))
 
 LANDAU_LAB_PEPTIDES_FILEPATH = os.path.join(PROJECT_PATH, "Landau_lab_peptides_20230119.xlsx")
-# TODO: see if the / after Jpred is neccery
-JPRED_INPUT_FILEPATH = os.path.join(PROJECT_PATH, "Jpred/")
-
 
 # ------------------------------------------ Job type  ------------------------------------------ #
 RUN_ONLY_DATABASE = []
