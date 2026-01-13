@@ -78,7 +78,6 @@ pip install pandas numpy openpyxl
   
 - **Tango**: Tango runs locally. all files needed exists in Tango/ folder. 
 
-The Tango executable (Tango_run.bat) must be placed in:
 
 
 ---
