@@ -98,9 +98,9 @@ pip install pandas numpy openpyxl
 > - MIN_JPRED_SCORE - minimal averaged score of a segment to be predicted as helical by Jpred
 >   
 > To apply additional thresholds based on the fraction of the sequence assigned a defined secondary structure, set the following parameters to values greater than 0 and less than or equal to 100:
-> - MIN_H_CONTENT: minimum percentage of residues predicted to be helical
-> - MIN_SSW_B_CONTENT: minimum percentage of residues predicted to adopt β-structure within SSW sequences
-> - MIN_SSW_H_CONTENT: minimum percentage of residues predicted to be helical within SSW sequences
+> - MIN_H_CONTENT: minimum percentage of residues predicted to be helical, so that the sequence will be defined as helical.
+> - MIN_SSW_B_CONTENT: minimum percentage of residues predicted to adopt β-structure, so thet the sequence will be defined as SSW.
+> - MIN_SSW_H_CONTENT: minimum percentage of residues predicted to be helical, so thet the sequence will be defined as SSW.
 >
    
 ---
