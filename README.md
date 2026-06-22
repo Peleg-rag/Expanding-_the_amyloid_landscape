@@ -1,4 +1,4 @@
-# Expanding-_the_amyloid_landscape
+# Expanding_the_amyloid_landscape
 
 This repository contains a Python pipeline for identifying and characterizing alpha-helical or secondary structure switch (SSW)
 fibril-forming peptides of toxic and virulant peptides. The prediction based on biochemical features and secondary-structure
